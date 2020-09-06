@@ -6,7 +6,7 @@
   type: table
 - path: houseprice
   name: houseprice
-  rows: 10000
+  rows: 153695
   cols: 7
   description: The Zillow time series Zip data set
   type: table
