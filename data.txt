@@ -10,3 +10,8 @@
   cols: 7
   description: The Zillow time series Zip data set
   type: table
+- path: worldnews
+  name: worldnews
+  rows: 66
+  cols: 1
+  type: table
