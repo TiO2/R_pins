@@ -1,0 +1,15 @@
+path:
+- data.csv
+- data.rds
+rows: 153695
+cols: 7
+columns:
+  RegionName: integer
+  City: factor
+  State: factor
+  Metro: factor
+  CountyName: factor
+  Price: numeric
+  Date: factor
+description: The Zillow time series Zip data set
+type: table
