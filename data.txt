@@ -1,17 +1,1 @@
-- path: iris
-  name: iris
-  rows: 150
-  cols: 5
-  description: The iris data set
-  type: table
-- path: houseprice
-  name: houseprice
-  rows: 153695
-  cols: 7
-  description: The Zillow time series Zip data set
-  type: table
-- path: worldnews
-  name: worldnews
-  rows: 66
-  cols: 1
-  type: table
+/tmp/RtmpkrVmCg/file4a6525d7d8bfyml
